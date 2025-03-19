@@ -7,8 +7,22 @@ Amplifier (FDFC) with common mode feedback
 circuit, adhering to the design 
 specifications. 
 ---
-* DC gain: 59.19dB
-* GBW: 121.108MHz
-* Power:1.8mW
+* Power dissipation 
+≤3mW 
+* DCgain 
+≥60dB 
+* GBW Gain Band Width 
+≥120MHz
+* Slew rate 
+≥75V/µs
+* Noise 
+≤ 50µVrms
+* PM ≥60◦
+* IM3(1Vpp@1MHz) 
+≤−60dB
+* Chip area (including 
+Area 
+pads) 
+1mm×1mm 
 
 
